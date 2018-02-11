@@ -6,13 +6,13 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Academic000"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "academic"
+theme = "academic000"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
+  name = "00000 000000"
   role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
